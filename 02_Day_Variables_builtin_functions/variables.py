@@ -82,10 +82,7 @@
 # # Calculate the circumference of a circle and assign the value to a variable name of circum_of_circle
 # circum_of_circle=3.142*(2*radius)
 # print(circum_of_circle)
-# Take radius as user input and calculate the area.
-
-
-
+# Take radius as user input and calculate the area
 # Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
 
 # Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
