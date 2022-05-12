@@ -92,7 +92,7 @@ print( 'Name     Age     Country   City.remove(" ")')
 # radius = 10
 # area = 3.14 * radius ** 2
 # The area of a circle with radius 10 is 314 meters square.
-# Make the following using string formatting methods:
+# Make the following using string formatting methods 
 # 8 + 6 = 14
 # 8 - 6 = 2
 # 8 * 6 = 48
