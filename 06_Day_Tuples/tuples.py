@@ -44,3 +44,9 @@ print("Estonia" in nordic_countries)
 # Check if 'Iceland' is a nordic country
 print("Iceland" in nordic_countries)
 # nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
+
+
+def brothersSister(names):
+    print (names)
+
+brothersSister(names=("Joanna","Mary","Serah","Jenipher"))
